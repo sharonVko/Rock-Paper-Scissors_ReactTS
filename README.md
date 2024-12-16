@@ -4,7 +4,11 @@
 
 This project implements the classic Rock, Paper, Scissors game using React, TypeScript, and CSS. The user plays against the computer by selecting their choice through respective buttons. The game board displays both the user's and the computer's choices, as well as the result. A reset button allows the game to restart. The design is freestyle and customizable.
 
+## Preview
+
 ![screenshot](./src/assets/RSP-gameboard-screenshot.png)
+
+or check it out on Netlify : [Rock Paper Scissors](https://basic-rock-paper-scissors-react-ts.netlify.app/)
 
 ## Features
 

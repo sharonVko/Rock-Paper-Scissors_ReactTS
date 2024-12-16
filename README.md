@@ -29,9 +29,10 @@ This project implements the classic Rock, Paper, Scissors game using React, Type
 ## How to Run the Project
 
 1. Clone the repository:
+   `git clone https://github.com/your-username/rock-paper-scissors.git`
 
-`git clone https://github.com/your-username/rock-paper-scissors.git` 2. Navigate to the project directory:
-`cd rock-paper-scissors`
+2. Navigate to the project directory:
+   `cd rock-paper-scissors`
 
 3. Install dependencies:
    `npm install`

@@ -4,6 +4,8 @@
 
 This project implements the classic Rock, Paper, Scissors game using React, TypeScript, and CSS. The user plays against the computer by selecting their choice through respective buttons. The game board displays both the user's and the computer's choices, as well as the result. A reset button allows the game to restart. The design is freestyle and customizable.
 
+![screenshot](./src/assets/RSP-gameboard-screenshot.png)
+
 ## Features
 
 - Interactive Gameplay: Users can select Rock, Paper, or Scissors.
@@ -26,19 +28,18 @@ This project implements the classic Rock, Paper, Scissors game using React, Type
 
 ## How to Run the Project
 
-Clone the repository:
+1. Clone the repository:
 
-git clone https://github.com/your-username/rock-paper-scissors.git
-Navigate to the project directory:
+`git clone https://github.com/your-username/rock-paper-scissors.git` 2. Navigate to the project directory:
 `cd rock-paper-scissors`
 
-Install dependencies:
-`npm install`
+3. Install dependencies:
+   `npm install`
 
-Start the development server:
-`npm start`
+4. Start the development server:
+   `npm start`
 
-Open your browser to see the game in action.
+5. Open your browser to see the game in action.
 
 ## Game Rules
 
